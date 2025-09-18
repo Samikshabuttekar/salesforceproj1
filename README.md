@@ -1,3 +1,3 @@
 # salesforceproj1
-Al-Powered Lead Quality Scoring
-Problem: Businesses waste time chasing unqualified leads because all leads look "equal" in Salesforce.
+Franchies Management CRM track outlets, sales, and quality compliance.
+Franchise-based businesses operate multiple outlets across different locations, which makes it difficult to track sales performance, ensure service quality, and maintain compliance standards consistently.
